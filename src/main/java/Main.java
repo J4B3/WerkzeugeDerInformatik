@@ -1,5 +1,5 @@
 public class Main {
-
+    //This is a line from Merge_conflict
     public static void main(String[] args) {
         Factory factory = new Factory();
 
