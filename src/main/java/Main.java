@@ -1,6 +1,5 @@
 public class Main {
-    //Dies ist eine Änderung im Branch Main
-
+    //This is a line from Merge_conflict
     public static void main(String[] args) {
         Factory factory = new Factory();
 
